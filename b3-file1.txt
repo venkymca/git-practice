@@ -1,2 +1,2 @@
 file from branch3
-add new line
+line2
