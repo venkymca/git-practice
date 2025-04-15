@@ -1,1 +1,5 @@
 nar
+ #test.text 
+#config/dev.env
+    # *.log
+    # /node_modules/
